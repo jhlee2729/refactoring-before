@@ -1,3 +1,4 @@
+/* 6.1 함수 추출하기 */
 export function printOwing(invoice) {
   printBanner();
   let outstanding = calculateOutstanding(invoice);
